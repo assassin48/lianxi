@@ -1,2 +1,1 @@
-# lianxi
-this is my start 
+I'm new and want to learn something
